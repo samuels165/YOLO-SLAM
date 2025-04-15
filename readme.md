@@ -75,12 +75,20 @@ project/
 ├── dtc_v6.py
 ```
 
+#### Štruktúra snímok
+`x_y_z_angleToXAxis_angleToZAxis.jpg`
+`x` - Koordinát x
+`y` - Koordinát y
+`z` - Koordinát z
+`angleToXAxis` - uhol otočenia kamery voči uhlu X
+`angleToZAxis` - uhol otočenia kamery voči uhlu Z
+
 #### Spustenie skriptu
 
 Spustenie analýzy a vizualizácie:
 
 ```bash
-python dtc_v6.py
+python yolo-slam.py
 ```
 
 ### Konfigurácia systému
