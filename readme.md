@@ -93,7 +93,7 @@ python yolo-slam.py
 
 ### Konfigurácia systému
 
-Hlavné konfiguračné parametre (`dtc_v6.py`):
+Hlavné konfiguračné parametre (`yolo-slam.py`):
 
 ```python
 logs = False
